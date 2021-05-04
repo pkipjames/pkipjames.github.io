@@ -11,4 +11,5 @@ out of this video:
 (https://pkipjames.github.io/animegan2-pytorch/hylt.mp4)[https://pkipjames.github.io/animegan2-pytorch/hylt.mp4]
 <video controls="true" src="https://pkipjames.github.io/animegan2-pytorch/hylt.mp4" height="200"></video>
 
-by using [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGANv2). The video I used is called (BLACKPINK - How You Like That)[https://www.youtube.com/watch?v=ioNng23DkIM]
+by using [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGANv2). The video I used is called 
+(BLACKPINK - 'How You Like That' M/V)[https://www.youtube.com/watch?v=ioNng23DkIM]
