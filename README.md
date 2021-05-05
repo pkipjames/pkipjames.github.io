@@ -17,6 +17,8 @@ by using [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGANv2). The video I
 
 
 Here are some other videos I made:
+
+
 [my-exs-best-friend-anime.mp4](https://pkipjames.github.io/my-exs-best-friend-anime.mp4)
 
 
