@@ -20,6 +20,13 @@ by using it. The video I used is called
 Here are some other videos I made with [AnimeGAN](https://github.com/TachibanaYoshino/AnimeGANv2):
 
 
+[roxanne-anime-fixed.mp4](https://pkipjames.github.io/roxanne-anime-fixed.mp4)
+<video controls="true" src="https://pkipjames.github.io/roxanne-anime-fixed.mp4" height="200"></video>
+
+made from [roxanne.mp4](https://pkipjames.github.io/roxanne.mp4)
+<video controls="true" src="https://pkipjames.github.io/roxanne.mp4" height="200"></video>
+
+
 [my-exs-best-friend-anime.mp4](https://pkipjames.github.io/my-exs-best-friend-anime.mp4)
 <video controls="true" src="https://pkipjames.github.io/my-exs-best-friend-anime.mp4" height="200"></video>
 
