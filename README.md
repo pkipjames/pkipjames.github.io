@@ -26,6 +26,12 @@ Here are some other videos I made with [AnimeGAN](https://github.com/TachibanaYo
 made from [roxanne.mp4](https://pkipjames.github.io/roxanne.mp4)
 <video controls="true" src="https://pkipjames.github.io/roxanne.mp4" height="200"></video>
 
+[panini-an-fixed.mp4](https://pkipjames.github.io/panini-an-fixed.mp4)
+<video controls="true" src="https://pkipjames.github.io/panini-an-fixed.mp4" height="200"></video>
+
+made from [panini-640.mp4](https://pkipjames.github.io/panini-640.mp4)
+<video controls="true" src="https://pkipjames.github.io/panini-640.mp4" height="200"></video>
+
 
 [my-exs-best-friend-anime.mp4](https://pkipjames.github.io/my-exs-best-friend-anime.mp4)
 <video controls="true" src="https://pkipjames.github.io/my-exs-best-friend-anime.mp4" height="200"></video>
